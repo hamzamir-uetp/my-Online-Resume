@@ -31,4 +31,4 @@ I have converted my professional resume into a static website and deployed it us
 I initially encountered an error where the build process failed because my simple HTML/CSS site did not require a build step. I fixed this by reconfiguring the app with the correct output location or by editing the GitHub Actions workflow file to bypass the build process.
 
 ## Live Demo  
-👉 [View My Resume]()  
+👉 [View My Resume](https://ashy-smoke-09a665f00.1.azurestaticapps.net)  
